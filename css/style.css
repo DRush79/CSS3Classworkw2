@@ -8,7 +8,7 @@ NAV {
     background-color: #84bb7fad;
     display: inline-block;
     width: 80%;
-    
+    text-decoration: none;
 }
 
 header {
@@ -49,3 +49,7 @@ P {
     line-height: 125%;
 }
 
+a {
+    text-decoration: none;
+    
+}
